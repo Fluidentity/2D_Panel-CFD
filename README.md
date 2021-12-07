@@ -33,7 +33,7 @@ Flow over a cylinder
 
 # Validation of Solver
 
-![Vortex Shedding flow over a cylinder](Background%20and%20Validation%20f32133db32f840a79e790d1a1db970b7/ezgif.com-gif-maker(3).gif)
+![Vortex Shedding flow over a cylinder](https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Map-1_Step-.jpg)
 
 Vortex Shedding flow over a cylinder
 
