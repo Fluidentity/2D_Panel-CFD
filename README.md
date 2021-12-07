@@ -33,7 +33,7 @@ It's advisable to run this package from [RUN-spyder.py](http://RUN-spyder.py) th
 
 # General Background
 
-<img src="https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Map-1_Step-.jpg" alt="Flow over a cylinder" width="200"/>
+<img src="https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Map-1_Step-.jpg" alt="Flow over a cylinder" width="1500"/>
 
 Flow over a cylinder
 
@@ -62,7 +62,8 @@ Flow over a cylinder
 
 # Validation of Solver
 
-![Vortex Shedding flow over a cylinder](https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/ezgif.com-gif-maker(3).gif)
+<img src="https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/ezgif.com-gif-maker(3).gif" alt="Vortex Shedding flow over a cylinder" width="1500"/>
+
 
 Vortex Shedding flow over a cylinder
 
@@ -77,31 +78,32 @@ Vortex Shedding flow over a cylinder
 
 ### **Residuals**
 
-![Untitled](https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Untitled.png)
+<img src="https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Untitled.png" alt="Untitled" width="1500"/>
 
 ### **Benchmark Test at Re=100**
 
 - First Order Upwind scheme
 
-![Untitled](https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Untitled%201.png)
+<img src="https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Untitled%201.png" alt="Untitled" width="1500"/>
 
-![Untitled](https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Untitled%202.png)
+<img src="https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Untitled%202.png" alt="Untitled" width="1500"/>
 
 ### **Benchmark Test at Re=1000**
 
 - First Order Upwind scheme
 
-![Untitled](https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Untitled%203.png)
+<img src="https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Untitled%203.png" alt="Untitled" width="1500"/>
 
-![Untitled](https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Untitled%204.png)
+<img src="https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Untitled%204.png" alt="Untitled" width="1500"/>
 
 ### **Benchmark Test at Re=5000**
 
 - First Order Upwind scheme
 
-![Untitled](https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Untitled%205.png)
+<img src="https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Untitled%205.png" alt="Untitled" width="1500"/>
 
-![Untitled](https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Untitled%206.png)
+<img src="https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Untitled%206.png" alt="Untitled" width="1500"/>
+
 
 ### Conclusion
 
@@ -111,11 +113,11 @@ First order UPWIND Scheme is good for low Reynolds no. but is only first order a
 
 ### Velocity Profile [at X=Lx/2 and Y=0.8Ly]
 
-![Untitled](https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Untitled%207.png)
+<img src="https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Untitled%207.png" alt="Untitled" width="1500"/>
 
-![Untitled](https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Untitled%208.png)
+<img src="https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Untitled%208.png" alt="Untitled" width="1500"/>
 
-![Map-1 Step-[200].jpg](https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Map-1_Step-200.jpg)
+<img src="https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Map-1_Step-200.jpg" alt="Map-1 Step-[200].jpg" width="1500"/>
 
 ### Conclusion
 
