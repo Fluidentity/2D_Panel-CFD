@@ -4,7 +4,7 @@ This wiki is built in Notion. Here are all the tips you need to contribute.
 
 # General Background
 
-![Flow over a cylinder](Background%20and%20Validation%20f32133db32f840a79e790d1a1db970b7/Map-1_Step-.jpg)
+![Flow over a cylinder](https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Map-1_Step-.jpg)
 
 Flow over a cylinder
 
