@@ -4,32 +4,70 @@ This wiki is built in Notion. Here are all the tips you need to contribute.
 
 # Installation
 
+### Method: 1
+
 To install using pip Run:
 
 ```python
-python3 -m pip install 2D_Panel CFD
+python3 -m pip install 2D_Panel-CFD
 ```
 
 Or:
 
-Download source folder anywhere in your machine & set it to PYTHONPATH
+### Method: 2
+
+- Download source folder `RUN_package` to anywhere in your machine from:
+
+[https://github.com/Fluidentity/2D_Panel-CFD](https://github.com/Fluidentity/2D_Panel-CFD)
+
+- Set it to PYTHONPATH with:
 
 ```python
-export PYTHONPATH="${PYTHONPATH}:/path/to/source_directory/src"
+export PYTHONPATH="${PYTHONPATH}:/path/to/source_directory/RUN_package"
 ```
 
 It's advisable to run this package from [RUN-spyder.py](http://RUN-spyder.py) through an IDE like spyder for ease of use, and prolonged variable storage.
 
-## Executables
+## Executable
 
 <aside>
-💡 The source directory should be set up as PYTHONPATH
+💡 The source directory should be set up as PYTHONPATH if not installed using pip
 
 </aside>
 
+### Method: 1
+
+Open python environment with: (in terminal)
+
+```python
+python3
+```
+
+or 
+
+```python
+python
+```
+
+insert:
+
+```python
+from RUN_package import RUN
+```
+
 - **RUN.py** is meant to be run from terminal.
+
+### Method: 2
+
+Run on IDE by getting [RUN_package](https://github.com/Fluidentity/2D_Panel-CFD/tree/main/RUN%20package) from github.
+
+Open python IDE like spyder from RUN_package directory:
+
+Run [RUN-spyder.py](http://RUN-spyder.py) 
+
+The cells for pre-processor, solver & post processors are different. Need to run all. 
+
 - **RUN_spyder.py** can be run with an IDE, such as spyder to improve multi-Core Utilisation & post-processing experience. ****
-- The prompts makes the program easy to run, & visualise for any 2D sample problem.
 
 # General Background
 
