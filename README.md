@@ -2,6 +2,35 @@
 
 This wiki is built in Notion. Here are all the tips you need to contribute.
 
+# Installation
+
+To install using pip Run:
+
+```python
+python3 -m pip install 2D_Panel CFD
+```
+
+Or:
+
+Download source folder anywhere in your machine & set it to PYTHONPATH
+
+```python
+export PYTHONPATH="${PYTHONPATH}:/path/to/source_directory/src"
+```
+
+It's advisable to run this package from [RUN-spyder.py](http://RUN-spyder.py) through an IDE like spyder for ease of use, and prolonged variable storage.
+
+## Executables
+
+<aside>
+💡 The source directory should be set up as PYTHONPATH
+
+</aside>
+
+- **RUN.py** is meant to be run from terminal.
+- **RUN_spyder.py** can be run with an IDE, such as spyder to improve multi-Core Utilisation & post-processing experience. ****
+- The prompts makes the program easy to run, & visualise for any 2D sample problem.
+
 # General Background
 
 ![Flow over a cylinder](https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Map-1_Step-.jpg)
