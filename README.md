@@ -111,7 +111,7 @@ First order UPWIND Scheme is good for low Reynolds no. but is only first order a
 
 ## Fully developed flow between Parallel Plates
 
-### Velocity Profile [at X=Lx/2 and Y=0.8Ly]
+### Velocity Profile [at X=0.8*Lx and Y=0.5*Ly]
 
 <img src="https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/img/Untitled%207.png" alt="Untitled" width="400"/>
 
