@@ -33,7 +33,7 @@ It's advisable to run this package from [RUN-spyder.py](http://RUN-spyder.py) th
 
 # General Background
 
-![Flow over a cylinder](https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Map-1_Step-.jpg)
+<img src="https://github.com/Fluidentity/2D_Panel-CFD-/blob/main/README/Map-1_Step-.jpg" alt="Flow over a cylinder" width="200"/>
 
 Flow over a cylinder
 
